@@ -13,5 +13,5 @@ This project is an assessment task for creating a basic video hosting applicatio
 - **Unzipping Files**: I encountered significant challenges in unzipping the selected file. Despite multiple attempts and troubleshooting, I was unable to fully implement the unzip functionality within the given timeframe.
 
 - ## Acknowledgements
-- 
+  
 Thank you for the opportunity to work on this assessment. I am committed to continuing my learning and improving my skills to successfully complete similar tasks in the future.
